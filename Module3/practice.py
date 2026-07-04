@@ -24,14 +24,3 @@ while True:
     elif user_input == 60:
         print("恭喜中獎")
         break
-
-
-
-
-
-
-
-
-
-
-
